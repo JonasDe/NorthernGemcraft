@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.2
+
+- Enhancing now checks and pays its cost the same way vanilla crafting and upgrading do, so mods
+  that let you craft from nearby chests (such as AzuCraftyBoxes) work for enhancing too: gems and
+  Ancient Coins in those chests count and are used up.
+- Update the server and every player together (versions must match).
+
 ## 0.1.1
 
 - The ENHANCE tab now lists a "Set" row for every discovered gem, even when you don't carry that

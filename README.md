@@ -178,6 +178,8 @@ named in the BepInEx log.
 ## Compatibility
 
 - Adds no items, pieces or recipes, and doesn't change loot.
+- Crafting-from-chests mods (such as AzuCraftyBoxes) also cover enhancing: gems and Ancient Coins
+  in nearby chests count, just like for crafting.
 - Mods that change spawn tables or add station extensions don't affect it.
 - Other mods that change the same stats (regen, carry weight, movement) stack with it.
 - Gear sorting and crafting UI mods that replace the crafting panel may hide the ENHANCE tab.
