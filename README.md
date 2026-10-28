@@ -28,7 +28,8 @@ items: just a meaningful use for your Deep North loot that keeps the game's bala
 3. **Open the ENHANCE tab** next to CRAFT and UPGRADE at that station. It lists your eligible gear
    made at that station, one row per action:
    - **Set a gem** (gems you have discovered): one gemstone plus Ancient Coins. The item gets the
-     gem at grade I.
+     gem at grade I. Rows show even before you have the gem or coins; like vanilla recipes, they
+     are greyed out and the missing cost blinks red until you can afford them.
    - **Polish**: more of the same gem plus more Ancient Coins, up to grade III. Each grade adds the
      gem's effects again.
    - **Remove**: Ancient Coins. The gem is destroyed (configurable).
